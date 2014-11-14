@@ -16,7 +16,7 @@ DE: Audio-Blogging für DaF
 * Wie kombiniere ich Audio-Tools sinnvoll mit dem Präsenzlernen?
 * Fragen, Antworten und Diskussion  
 
-#### B. Ressourcen, Fehler & Diskussion
+#### B. Ressourcen
 #### Wiki
 https://github.com/chrisreuter/audio-blogging/wiki
 #### Fragen, Anmerkungen, Fehler, bitte hier: 
