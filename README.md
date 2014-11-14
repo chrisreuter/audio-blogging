@@ -1,5 +1,5 @@
-DE: Audio-Blogging für Deutsch als Fremdsprache
-===============================================
+DE: Audio-Blogging für DaF
+==========================
 
-Audio-Blogging-Tools für DaF Soundcloud, Audioboom und Spreaker
+Audio-Blogging-Tools für Deutsch als Fremdsprache Soundcloud, Audioboom und Spreaker
 Tool-Auswahl und Verwendung im Präsenzlernen
