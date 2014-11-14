@@ -13,3 +13,6 @@ DE: Audio-Blogging für DaF
 * Welche Anwendungsbeispiele gibt es?	
 * Wie kombiniere ich Audio-Tools sinnvoll mit dem Präsenzlernen?
 * Fragen, Antworten und Diskussion  
+
+### Fragen, Anmerkungen, Fehler, bitte hier: 
+https://github.com/chrisreuter/audio-blogging/issues
