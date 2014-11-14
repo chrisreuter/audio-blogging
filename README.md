@@ -2,7 +2,7 @@ DE: Audio-Blogging für DaF
 ==========================
 
 ## Audio-Blogging-Tools für Deutsch als Fremdsprache Soundcloud, Audioboom und Spreaker
-### Tool-Auswahl und Verwendung im Präsenzlernen
+### Tool-Auswahl und Anwendung im Präsenzlernen
 
 #### TEIL 1  - Einführung der Werkzeuge
 	* Welche Audio-Blogging-Werkzeuge gibt es?
